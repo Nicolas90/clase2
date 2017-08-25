@@ -1,1 +1,16 @@
+cli.angular.io
+
+npm i bootstrap
+ng g component componentes/login
+
+
+
 https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a
+
+
+
+
+bajar Node.js
+
+Entrar a http://cli.angular.io
+Visual Studio Code
