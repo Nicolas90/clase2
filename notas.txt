@@ -14,3 +14,7 @@ bajar Node.js
 
 Entrar a http://cli.angular.io
 Visual Studio Code
+
+
+
+//esto es lo de bootstrap, ver como funca e intentar hacer el loading con esto
